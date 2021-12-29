@@ -8,6 +8,8 @@ The main file handles all of the OpenCV operations, such as tracking the cars an
 # Demo
 ![Example](Demo.gif)
 
+In the demo we are only tracking and displaying the speed of the silver car from the upper portion of the screen.
+
 # Tech
 Project Developed with:
 * OpenCV
